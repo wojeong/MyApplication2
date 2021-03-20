@@ -22,6 +22,8 @@ public class MainActivity extends AppCompatActivity {
 
                 Intent activity2Intent = new Intent(getApplicationContext(), MainActivity2.class);
                 startActivity(activity2Intent);
+
+                //testing 123
             }
         });    }
 
